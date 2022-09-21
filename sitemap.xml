@@ -5,19 +5,22 @@
     <loc>http://example.org/</loc>
     <lastmod>2022-01-25T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://example.org/tags/mastering/</loc>
     <lastmod>2022-01-25T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/lifestyle/</loc>
+    <loc>http://example.org/tags/mixing/</loc>
     <lastmod>2022-01-25T15:01:35+03:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
     <lastmod>2022-01-25T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/that-which-does-not-kill-us-makes-us-stronger/</loc>
+    <loc>http://example.org/posts/</loc>
     <lastmod>2022-01-25T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/travel/</loc>
+    <loc>http://example.org/tags/tutorial/</loc>
+    <lastmod>2022-01-25T15:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/getting-your-song-ready-to-mix/</loc>
     <lastmod>2022-01-25T15:01:35+03:00</lastmod>
   </url><url>
     <loc>http://example.org/projects/abstraction/</loc>
@@ -41,46 +44,33 @@
     <loc>http://example.org/projects/illustration/</loc>
     <lastmod>2022-01-25T07:20:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/do-what-you-can-with-what-you-have-where-you-are/</loc>
+    <loc>http://example.org/posts/arranging-for-orchestral-instruments/</loc>
     <lastmod>2022-01-24T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/life/</loc>
+    <loc>http://example.org/tags/arrangment/</loc>
     <lastmod>2022-01-24T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/story/</loc>
+    <loc>http://example.org/tags/instrumentation/</loc>
     <lastmod>2022-01-24T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/notes/</loc>
-    <lastmod>2022-01-23T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/strive-not-to-be-a-success-but-rather-to-be-of-value/</loc>
-    <lastmod>2022-01-23T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/life-shrinks-or-expands-in-proportion-to-ones-courage/</loc>
-    <lastmod>2022-01-22T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/rest/</loc>
-    <lastmod>2022-01-21T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/you-must-be-the-change-you-wish-to-see-in-the-world/</loc>
-    <lastmod>2022-01-21T15:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/believe-and-act-as-if-it-were-impossible-to-fail/</loc>
+    <loc>http://example.org/tags/drums/</loc>
     <lastmod>2022-01-19T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/the-way-i-see-it-every-life-is-a-pile-of-good-things/</loc>
-    <lastmod>2022-01-18T15:01:35+03:00</lastmod>
+    <loc>http://example.org/posts/finding-the-right-drums/</loc>
+    <lastmod>2022-01-19T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/everything-has-beauty-but-not-everyone-can-see/</loc>
-    <lastmod>2022-01-17T18:05:55+03:00</lastmod>
+    <loc>http://example.org/tags/production/</loc>
+    <lastmod>2022-01-19T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/it-is-never-too-late-to-be-what-you-might-have-been/</loc>
-    <lastmod>2022-01-16T15:01:35+03:00</lastmod>
+    <loc>http://example.org/posts/studio-equipment/</loc>
+    <lastmod>2022-01-10T15:01:35+03:00</lastmod>
   </url><url>
     <loc>http://example.org/about/</loc>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/elements/</loc>
+  </url><url>
+    <loc>http://example.org/services/</loc>
   </url>
 </urlset>
